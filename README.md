@@ -141,12 +141,6 @@ gcc main.c -o sorting
 
 ## 🧑‍💻 Kontributor
 
-**Nama:** Marcellus Geraldio Florenta
-**NIM:** 2702262816
-**Bahasa:** C
-
----
-
----
-
-Apakah kamu mau saya bantu tambahkan bagian *preview hasil run* (contoh screenshot terminal dengan hasil sorting)? Itu bisa bikin README-mu lebih menarik di GitHub.
+Nama: Marcellus Geraldio Florenta
+NIM: 2702262816
+Bahasa: C
